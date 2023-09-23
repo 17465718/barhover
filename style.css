@@ -12,6 +12,9 @@ body
   align-items: center;
   min-height: 100vh;
   background: #000;
+  text-decoration: none;
+  padding: 6px 20px;
+  transition: .5s;
 }
 nav a 
 {
